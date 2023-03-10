@@ -365,7 +365,7 @@ st.markdown(
     """
     <b>English Below</b> 
     
-    This dashboard was created as an object of study, using Python as library Pandas (for data manipulation) and Streamlit (for creating this web application) and hosted in Streamlit cloud.
+    This dashboard was created as an object of study, using <b>Python</b> as library <b>Pandas</b> (for data manipulation) and <b>Streamlit</b> (for creating this web application) and hosted in <b>Streamlit</b> cloud.
 
     The database is available on Kaggle and contains information about the main restaurants in the main cities of the world.
 
