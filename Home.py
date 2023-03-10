@@ -367,7 +367,7 @@ st.markdown(
     
     This dashboard was created as an object of study, using <b>Python</b> as library <b>Pandas</b> (for data manipulation) and <b>Streamlit</b> (for creating this web application) and hosted in <b>Streamlit</b> cloud.
 
-    The database is available on Kaggle and contains information about the main restaurants in the main cities of the world.
+    The database is available on [Kaggle](https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset?resource=download&select=zomato.csv) and contains information about the main restaurants in the main cities of the world.
 
     In this dashboard, 3 views were created:
       - <b>Company</b> - company overview
