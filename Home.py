@@ -346,7 +346,7 @@ streamlit_config()
 
 st.markdown(
     """
-    Este dashboard foi criado como objeto de estudo, usando <b>Python</b>, as biblioteca <b>Pandas</b> (para manipulação dos dados) e <b>Streamlit</b> (para a criação desse web app) e para a hospedagem em nuvem foi usado o <b>Heroku</b>.
+    Este dashboard foi criado como objeto de estudo, usando <b>Python</b>, as biblioteca <b>Pandas</b> (para manipulação dos dados) e <b>Streamlit</b> (para a criação desse web app) e hospedado na cloud <b>Streamlit</b>.
     
     
     A base de dados está disponível no [Kaggle](https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset?resource=download&select=zomato.csv) e contém informações sobre os principais restaurantes das principais cidades do mundo.
@@ -365,7 +365,7 @@ st.markdown(
     """
     <b>English Below</b> 
     
-    This dashboard was created as an object of study, using Python as library Pandas (for data manipulation) and Streamlit (for creating this web application) and hosted in Heroku cloud.
+    This dashboard was created as an object of study, using Python as library Pandas (for data manipulation) and Streamlit (for creating this web application) and hosted in Streamlit cloud.
 
     The database is available on Kaggle and contains information about the main restaurants in the main cities of the world.
 
